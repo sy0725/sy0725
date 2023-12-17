@@ -34,7 +34,6 @@
 
 </div>
 
-
 <div align="center">
 
 <h3 align="center"> State📊</h3>
