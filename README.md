@@ -10,14 +10,12 @@
 <br>
 
 <div>
-<h3> 🔥 Skill 🔥 </h3>
-<br>
-<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/StyledComponent-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
-<img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
+<h3> 스터디, 프로젝트 , 기록 📝 📚 </h3>
+
+- 스터디 : [React 스터디](https://github.com/sy0725/react-deep-dive), [TypeScript 스터디](https://github.com/sy0725/mts-study)
+
+  
+
 </div>
 
 #
