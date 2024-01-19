@@ -10,10 +10,14 @@
 <br>
 
 <div>
-<h3> 스터디, 프로젝트 , 기록 📝 📚 </h3>
+<h3> 스터디, 프로젝트 , 기록 📚 </h3>
 
-- 스터디 : [React 스터디](https://github.com/sy0725/react-deep-dive), [TypeScript 스터디](https://github.com/sy0725/mts-study)
+-  📝 스터디 : [React 스터디](https://github.com/sy0725/react-deep-dive), [TypeScript 스터디](https://github.com/sy0725/mts-study)
 
+-  💻 프로젝트 : [JUNGLE](https://github.com/twelive/JUNGLE) 리팩토링 중, [WonT](https://github.com/FRONTENDSCHOOL6/WonT) Next 마이그레이션 중 입니다.
+
+-  📋 기록 : [노션](https://unleashed-vault-018.notion.site/Note-6553542f3449488183261d5f4bbb7ceb?pvs=4)
+, [Velog](https://velog.io/@sy0725/posts) , [학습기록](https://github.com/sy0725/Today)
   
 
 </div>
