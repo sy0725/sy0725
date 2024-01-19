@@ -38,8 +38,15 @@
   <img src="https://img.shields.io/badge/PocketBase-B8DBE4?style=flat-square&logo=pocketbase&logoColor=white"/>
 </div>
 
-<div>
 
+<h3>  이수 교육 📖 </h3>
+<div>
+<img src="https://img.shields.io/badge/TECKIT FRONTEND SCHOOL-FF9A00?style=flat-square&logo=lionair&logoColor=white"/>
+<img src="https://img.shields.io/badge/TECKIT FRONTEND SCHOOL PLUS-FF9A00?style=flat-square&logo=lionair&logoColor=white"/>
+
+
+
+  
 ![sy0725's github stats](https://github-readme-stats.vercel.app/api?username=sy0725&show_icons=true&theme=onedark&hide=stars,contribs)
 
 
