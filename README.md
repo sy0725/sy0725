@@ -19,7 +19,7 @@
 -  📋 기록 : [노션](https://unleashed-vault-018.notion.site/Note-6553542f3449488183261d5f4bbb7ceb?pvs=4)
 , [Velog](https://velog.io/@sy0725/posts) , [학습기록](https://github.com/sy0725/Today)
 </div>
-
+<br>
 <div>
 <h3>  최근 집중하는 기술 스택 🎯 </h3>
   <div>
@@ -29,7 +29,7 @@
      <img src="https://img.shields.io/badge/ZUSTAND-981E32?style=flat-square&logo=zustand&logoColor=white"/>
     <img src="https://img.shields.io/badge/SupaBase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
   </div>
-
+<br>
 <h3>  기술 스택 🎯 </h3>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/PocketBase-B8DBE4?style=flat-square&logo=pocketbase&logoColor=white"/>
 </div>
 
-
+<br>
 <h3>  이수 교육 📖 </h3>
 <div>
 <img src="https://img.shields.io/badge/TECKIT FRONTEND SCHOOL-FF9A00?style=flat-square&logo=lionair&logoColor=white"/>
@@ -46,8 +46,10 @@
 
 
 
+  <br>
+  <br><br>
   
-![sy0725's github stats](https://github-readme-stats.vercel.app/api?username=sy0725&show_icons=true&theme=onedark&hide=stars,contribs)
+
 
 
 </div>
