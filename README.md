@@ -18,21 +18,17 @@
 
 -  📋 기록 : [노션](https://unleashed-vault-018.notion.site/Note-6553542f3449488183261d5f4bbb7ceb?pvs=4)
 , [Velog](https://velog.io/@sy0725/posts) , [학습기록](https://github.com/sy0725/Today)
-  
-
 </div>
 
-#
-
 <div>
-<h3> 🖥️ Social 🖥️ </h3>
-  <br>
-<p>
-<a href=mailto:sunyong0725@naver.com><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
-<a href=mailto:tkdcsy@gmail.com><img src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/ssunyong0725"><img src="https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://velog.io/@sy0725"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Velog&logoColor=white"/></a>
-</p>
+<h3>  최근 집중하는 기술 스택 🎯 </h3>
+  <div>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NEXTJS-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SWR-000?style=flat-square&logo=swr&logoColor=white"/>
+     <img src="https://img.shields.io/badge/ZUSTAND-981E32?style=flat-square&logo=zustand&logoColor=white"/>
+  </div>
+
 
 </div>
 
