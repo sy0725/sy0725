@@ -10,7 +10,7 @@
 <br>
 
 <div>
-<h3> 스터디, 프로젝트 , 기록 📚 </h3>
+<h3> 스터디, 프로젝트 , 기록 , 코딩테스트 📚 </h3>
 
 -  📝 스터디 : [React 스터디](https://github.com/sy0725/react-deep-dive), [TypeScript 스터디](https://github.com/sy0725/mts-study)
 
@@ -18,6 +18,8 @@
 
 -  📋 기록 : [노션](https://unleashed-vault-018.notion.site/Note-6553542f3449488183261d5f4bbb7ceb?pvs=4)
 , [Velog](https://velog.io/@sy0725/posts) , [학습기록](https://github.com/sy0725/Today)
+
+- 🧐 코딩테스트 : [코딩테스트](https://github.com/sy0725/coding)
 </div>
 <br>
 <div>
