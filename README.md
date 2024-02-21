@@ -22,35 +22,15 @@
 </div>
 <br>
 <div>
-<h3>  최근 집중하는 기술 스택 🎯 </h3>
+<h3> 기술 스택 🎯 </h3>
   <div>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/NEXTJS-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SWR-000?style=flat-square&logo=swr&logoColor=white"/>
      <img src="https://img.shields.io/badge/ZUSTAND-981E32?style=flat-square&logo=zustand&logoColor=white"/>
     <img src="https://img.shields.io/badge/SupaBase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
-  </div>
-<br>
-<h3>  기술 스택 🎯 </h3>
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Styled Component-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PocketBase-B8DBE4?style=flat-square&logo=pocketbase&logoColor=white"/>
 </div>
-
-<br>
-<h3>  이수 교육 📖 </h3>
-<div>
-<img src="https://img.shields.io/badge/TECKIT FRONTEND SCHOOL-FF9A00?style=flat-square&logo=lionair&logoColor=white"/>
-<img src="https://img.shields.io/badge/TECKIT FRONTEND SCHOOL PLUS-FF9A00?style=flat-square&logo=lionair&logoColor=white"/>
-
-
-
-  <br>
-  <br><br>
-  
-
-
 
 </div>
